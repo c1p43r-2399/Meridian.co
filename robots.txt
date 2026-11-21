@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /staging/
+Disallow: /internal-preview/
+
+# TODO before launch: rotate the staging admin login, we're still using
+# TRAINING_DEMO_ONLY_NOT_A_REAL_PASSWORD_x7q2 - remind Daniel to fix this
